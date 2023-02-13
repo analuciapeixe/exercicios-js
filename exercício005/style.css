@@ -1,0 +1,36 @@
+
+body{
+    background: rgb(143 183 227);
+    font-family: 'Noto Serif', serif;
+}
+header{
+    color: rgba(42, 45, 55, 0.86);
+    text-align: center;
+}
+
+section{
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 15px;
+    width: 75%;
+    margin:auto;
+    box-shadow: 5px 13px 25px  rgba(91, 90, 90, 0.854);
+}
+
+
+#msg{
+    text-align: center;
+}
+
+#res{
+    text-align: center;
+}
+
+select#lista{
+    width: 175px;
+}
+footer{
+    color: rgba(42, 45, 55, 0.86);
+    text-align: center;
+    font-style: italic;
+}

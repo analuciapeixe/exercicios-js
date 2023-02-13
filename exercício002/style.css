@@ -1,0 +1,41 @@
+
+body{
+    background: rgb(143 183 227);
+    font-family: 'Noto Serif', serif;
+}
+header{
+    color: rgba(42, 45, 55, 0.86);
+    text-align: center;
+}
+
+section{
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin:auto;
+    box-shadow: 5px 13px 25px  rgba(91, 90, 90, 0.854);
+}
+
+#msg{
+    text-align: center;
+    margin: 25px;
+}
+#foto{
+        border-radius: 50%;
+        width: 13em;
+        height: 12em;
+}
+#imagens{
+    position: relative;
+    text-align: center;
+}
+#res{
+    text-align: center;
+    padding-bottom: 15px;
+}
+footer{
+    color: rgba(42, 45, 55, 0.86);
+    text-align: center;
+    font-style: italic;
+}
